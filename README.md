@@ -14,11 +14,11 @@ in progress.
 
 ## Links
 
-- [Submission Pull Request](https://github.com/AmjadMesmar/api-server/pull/1)
+- [Submission Pull Request](https://github.com/AmjadMesmar/basic-auth/pull/1)
 
-- [Deployed App](https://souls-api-server.herokuapp.com/)
+- [Deployed App](https://souls-basic-auth.herokuapp.com/)
 
-- [Action Report](https://github.com/AmjadMesmar/api-server/actions)
+- [Action Report](https://github.com/AmjadMesmar/basic-auth/actions)
 
 <hr>
 
